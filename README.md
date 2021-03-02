@@ -29,12 +29,3 @@
 ### Thế Giới Thời Trang
 [Thế Giới thời trang](https://store.thanbarbershop.net) cung cấp hàng triệu sản phẩm thời trang chính hãng
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-VZVDB6DJKQ"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-VZVDB6DJKQ');
-</script>
